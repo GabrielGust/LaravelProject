@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height:100vh; 
+  display: flex; 
+  flex: 1; 
+  background-color: #1A202C; 
+  align-items: center; 
+  justify-content: center
+}
+
+.content {
+  font-family:'Nunito', sans-serif; 
+  font-weight: 600;
+  font-size: 130px;
+  color: #EF3B2D;
+}
